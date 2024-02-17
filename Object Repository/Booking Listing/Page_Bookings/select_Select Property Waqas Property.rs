@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Property Waqas Property</name>
+   <tag></tag>
+   <elementGuidId>8d68d1ef-4a54-4a1e-a86f-2f3deb772cfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#assigned_property</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='assigned_property']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>34df14df-88e0-4e82-9e0d-2dc4da07bd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>assigned_property</value>
+      <webElementGuid>69b5db88-5c23-4e2a-a950-b50a792b9c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select-arrow form-control</value>
+      <webElementGuid>15c86618-b5ad-4306-bdcf-92629d917342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Property Waqas Property</value>
+      <webElementGuid>f1fe10f0-6427-4c37-b1b5-8f6cf2121970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assigned_property&quot;)</value>
+      <webElementGuid>1bbb89cb-5d11-4b59-9a42-1a18a070fe50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='assigned_property']</value>
+      <webElementGuid>a1f7ed68-96af-468e-85be-aae34f74f1de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bookings-tabContent']/div/div/div/div/select</value>
+      <webElementGuid>01427ba6-5269-4811-a5fe-0350f4b5ca2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>98b3a254-fe94-4610-b91e-2f063bc26015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rental'])[1]/preceding::select[1]</value>
+      <webElementGuid>82b3a346-a3c5-427d-a815-4571676a2f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c01ae151-e4b5-4c80-8536-e5673f4c46c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'assigned_property' and (text() = 'Select Property Waqas Property' or . = 'Select Property Waqas Property')]</value>
+      <webElementGuid>d08591e1-5459-412c-b646-b9f5a28eda57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

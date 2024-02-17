@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Powerful Payment Processing</name>
+   <tag></tag>
+   <elementGuidId>b5d7ea1f-0998-4cb4-bd49-cd6c7fa64f8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='intro_section_text_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#intro_section_text_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>97966ead-448a-4b2f-9fd1-a3c3552458af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>intro_section_text_1</value>
+      <webElementGuid>d2a0aadd-9b79-4088-8074-46c63b55acd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>intro white-text</value>
+      <webElementGuid>bf53561d-19db-494b-a108-55f54c20fc53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Powerful Payment Processing</value>
+      <webElementGuid>c9fa0758-f567-4c71-9ece-0a52e740c3f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;intro_section_text_1&quot;)</value>
+      <webElementGuid>8ca8fd9c-8fe9-4f4b-9275-01b87841c540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='intro_section_text_1']</value>
+      <webElementGuid>f2414581-e89c-4b4b-a49c-2f3bded05f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8c9268ca-693a-477c-a6e5-d5f386d61b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4dc4e1f3-c106-479d-bd33-ec991314fc4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Powerful Payment Processing']/parent::*</value>
+      <webElementGuid>c644bc0b-0266-4415-b26f-f2a017cf63c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>ce337f51-84ca-4afc-a6cf-87656c6ff3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'intro_section_text_1' and (text() = 'Powerful Payment Processing' or . = 'Powerful Payment Processing')]</value>
+      <webElementGuid>7e036662-bbb3-4ba2-9f98-a53d23807ef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

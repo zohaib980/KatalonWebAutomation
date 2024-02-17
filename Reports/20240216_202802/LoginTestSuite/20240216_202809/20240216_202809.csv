@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LoginTestSuite,,,,16-02-2024 20:28:31,16-02-2024 20:28:55,24.582s,FAILED
+,,,,,,,
+Test Cases/Login Functionality/TC-1-Play Record and Replay,,,,16-02-2024 20:28:54,16-02-2024 20:28:54,0.113s,FAILED
+"openBrowser("""")",,,,16-02-2024 20:28:54,16-02-2024 20:28:54,0.099s,FAILED
+,,,,,,,
+Test Cases/Login Functionality/TC-2-Scriptless,,,,16-02-2024 20:28:54,16-02-2024 20:28:55,0.152s,FAILED
+"openBrowser(""master.chargeautomation.com"")",,,,16-02-2024 20:28:54,16-02-2024 20:28:55,0.140s,FAILED
+,,,,,,,
+Test Cases/Login Functionality/TC-3-Scripted,,,,16-02-2024 20:28:55,16-02-2024 20:28:55,0.108s,FAILED
+"openBrowser(""https://master.chargeautomation.com"")",,,,16-02-2024 20:28:55,16-02-2024 20:28:55,0.097s,FAILED

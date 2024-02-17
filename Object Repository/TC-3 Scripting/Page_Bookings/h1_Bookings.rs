@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Bookings</name>
+   <tag></tag>
+   <elementGuidId>919522a3-52cf-403e-92b2-6aeeac70299c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='booking-listing-page']/div[3]/div/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.page-title.translate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6a8105a8-230c-4ad8-b9f6-319aac0bd137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title translate</value>
+      <webElementGuid>2e59ec68-173b-4270-8f41-007b8efda365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Bookings
+                    </value>
+      <webElementGuid>ec266649-419a-4059-88e0-30570bc83cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking-listing-page&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;page-header mb-0&quot;]/div[@class=&quot;top-header-section&quot;]/h1[@class=&quot;page-title translate&quot;]</value>
+      <webElementGuid>e549a9ab-a2b8-4868-a717-6f2ea3a3c9b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-listing-page']/div[3]/div/div/div/div/h1</value>
+      <webElementGuid>d3c8319d-65fd-46a8-9736-2134a421369e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[2]/following::h1[1]</value>
+      <webElementGuid>3b791414-d741-45c1-8adc-984a543846bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option'])[6]/following::h1[1]</value>
+      <webElementGuid>9e462983-f2bf-48dc-b77e-dc6c62ec5d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all your bookings'])[1]/preceding::h1[1]</value>
+      <webElementGuid>519a8d17-52d5-480e-b69e-ee380c0bc276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[3]/preceding::h1[1]</value>
+      <webElementGuid>ba37280c-13e9-46d9-9633-16958bf9139b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>1a8603d5-d867-4661-a833-589bc40000dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+                    Bookings
+                    ' or . = '
+                    Bookings
+                    ')]</value>
+      <webElementGuid>a2fe0f4f-4f58-46d0-92dc-3ab2dc703a59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
